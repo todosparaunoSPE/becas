@@ -39,6 +39,8 @@ st_lottie(lottie_hello, key = "hello")
 st.subheader("Bases de datos abiertas")
 st.subheader("tomadas del siguiente:")
 st.subheader("https://www.siicyt.gob.mx/index.php/estadisticas/bases-de-datos-abiertas?id=96")
+st.subheader("Javier Horacio Pérez Ricárdez")
+
 
 ###st.subheader("INTRODUCCIÓN.")
 
